@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/List_of_national_parks_of_Thailand
 ```json
 {
   "nameTH": "อุทยานแห่งชาติเขาใหญ่",
-  "nameEN": "Khao Yai",
+  "nameEN": "Khao Yai National Park",
   "lat": 14.35,
   "long": 101.44,
   "region": "Central-East",
