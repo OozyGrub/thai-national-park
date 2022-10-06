@@ -12,7 +12,7 @@
         "nameEN": "Doi Inthanon National Park",
         "lat": 18.59,
         "long": 98.48,
-        "region": "Thai highlands",
+        "region": "North",
         "provinces": ["Chiang Mai"]
     },
     {
@@ -20,7 +20,7 @@
       "nameEN": "Doi Pha Hom Pok National Park",
       "lat": 19.98,
       "long": 99.14,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -28,7 +28,7 @@
       "nameEN": "Doi Suthep–Pui National Park",
       "lat": 18.80,
       "long": 98.91,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -36,7 +36,7 @@
       "nameEN": "Khun Khan National Park",
       "lat": 18.85,
       "long": 98.62,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -44,7 +44,7 @@
       "nameEN": "Mae Takhrai National Park",
       "lat": 18.96,
       "long": 99.24,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai", "Lamphun"]
   },
   {
@@ -52,7 +52,7 @@
       "nameEN": "Mae Wang National Park",
       "lat": 18.52,
       "long": 98.71,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -60,7 +60,7 @@
       "nameEN": "Op Luang National Park",
       "lat": 18.22,
       "long": 98.48,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -68,7 +68,7 @@
       "nameEN": "Pha Daeng National Park",
       "lat": 19.62,
       "long": 98.95,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -76,7 +76,7 @@
       "nameEN": "Si Lanna National Park",
       "lat": 19.28,
       "long": 99.09,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai"]
   },
   {
@@ -84,7 +84,7 @@
       "nameEN": "Doi Luang National Park",
       "lat": 19.20,
       "long": 99.71,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Rai", "Lampang", "Phayao"]
   },
   {
@@ -92,7 +92,7 @@
       "nameEN": "Khun Chae National Park",
       "lat": 19.15,
       "long": 99.46,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Rai"]
   },
   {
@@ -100,7 +100,7 @@
       "nameEN": "Mae Ping National Park",
       "lat": 17.56,
       "long": 98.80,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai", "Tak", "Lamphun"]
   },
   {
@@ -108,7 +108,7 @@
       "nameEN": "Huai Nam Dang National Park",
       "lat": 19.62,
       "long": 99.02,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Chiang Mai", "Mae Hong Son"]
   },
   {
@@ -116,7 +116,7 @@
       "nameEN": "Namtok Mae Surin National Park",
       "lat": 19.14,
       "long": 98.03,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Mae Hong Son"]
   },
   {
@@ -124,7 +124,7 @@
       "nameEN": "Salawin National Park",
       "lat": 18.09,
       "long": 97.75,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Mae Hong Son"]
   },
   {
@@ -132,7 +132,7 @@
       "nameEN": "Tham Pla–Namtok Pha Suea National Park",
       "lat": 19.50,
       "long": 98.00,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Mae Hong Son"]
   },
   {
@@ -140,7 +140,7 @@
       "nameEN": "Doi Phu Nang National Park",
       "lat": 19.00,
       "long": 100.16,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Phayao"]
   },
   {
@@ -148,7 +148,7 @@
       "nameEN": "Mae Puem National Park",
       "lat": 19.35,
       "long": 99.88,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Phayao", "Chiang Rai"]
   },
   {
@@ -156,7 +156,7 @@
       "nameEN": "Phu Sang National Park",
       "lat": 19.53,
       "long": 100.45,
-      "region": "Thai highlands",
+      "region": "North",
       "provinces": ["Phayao", "Chiang Rai"]
   }
 ]
