@@ -6,5 +6,157 @@
         "long": 101.44,
         "region": "Central-East",
         "provinces": ["Nakhon Ratchasima", "Nakhon Nayok", "Prachinburi", "Saraburi"]
-    } 
+    },
+    {
+        "nameTH": "อุทยานแห่งชาติดอยอินทนนท์",
+        "nameEN": "Doi Inthanon National Park",
+        "lat": 18.59,
+        "long": 98.48,
+        "region": "North",
+        "provinces": ["Chiang Mai"]
+    },
+    {
+      "nameTH": "อุทยานแห่งชาติดอยผ้าห่มปก",
+      "nameEN": "Doi Pha Hom Pok National Park",
+      "lat": 19.98,
+      "long": 99.14,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติดอยสุเทพ-ปุย",
+      "nameEN": "Doi Suthep–Pui National Park",
+      "lat": 18.80,
+      "long": 98.91,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติขุนขาน",
+      "nameEN": "Khun Khan National Park",
+      "lat": 18.85,
+      "long": 98.62,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติแม่ตะไคร้",
+      "nameEN": "Mae Takhrai National Park",
+      "lat": 18.96,
+      "long": 99.24,
+      "region": "North",
+      "provinces": ["Chiang Mai", "Lamphun"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติแม่วาง",
+      "nameEN": "Mae Wang National Park",
+      "lat": 18.52,
+      "long": 98.71,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติออบหลวง",
+      "nameEN": "Op Luang National Park",
+      "lat": 18.22,
+      "long": 98.48,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติผาแดง",
+      "nameEN": "Pha Daeng National Park",
+      "lat": 19.62,
+      "long": 98.95,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติศรีลานนา",
+      "nameEN": "Si Lanna National Park",
+      "lat": 19.28,
+      "long": 99.09,
+      "region": "North",
+      "provinces": ["Chiang Mai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติดอยหลวง",
+      "nameEN": "Doi Luang National Park",
+      "lat": 19.20,
+      "long": 99.71,
+      "region": "North",
+      "provinces": ["Chiang Rai", "Lampang", "Phayao"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติขุนแจ",
+      "nameEN": "Khun Chae National Park",
+      "lat": 19.15,
+      "long": 99.46,
+      "region": "North",
+      "provinces": ["Chiang Rai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติแม่ปิง",
+      "nameEN": "Mae Ping National Park",
+      "lat": 17.56,
+      "long": 98.80,
+      "region": "North",
+      "provinces": ["Chiang Mai", "Tak", "Lamphun"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติห้วยน้ำดัง",
+      "nameEN": "Huai Nam Dang National Park",
+      "lat": 19.62,
+      "long": 99.02,
+      "region": "North",
+      "provinces": ["Chiang Mai", "Mae Hong Son"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติน้ำตกแม่สุรินทร์",
+      "nameEN": "Namtok Mae Surin National Park",
+      "lat": 19.14,
+      "long": 98.03,
+      "region": "North",
+      "provinces": ["Mae Hong Son"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติสาละวิน",
+      "nameEN": "Salawin National Park",
+      "lat": 18.09,
+      "long": 97.75,
+      "region": "North",
+      "provinces": ["Mae Hong Son"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติถ้ำปลา–น้ำตกผาเสื่อ",
+      "nameEN": "Tham Pla–Namtok Pha Suea National Park",
+      "lat": 19.50,
+      "long": 98.00,
+      "region": "North",
+      "provinces": ["Mae Hong Son"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติดอยภูนาง",
+      "nameEN": "Doi Phu Nang National Park",
+      "lat": 19.00,
+      "long": 100.16,
+      "region": "North",
+      "provinces": ["Phayao"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติแม่ปืม",
+      "nameEN": "Mae Puem National Park",
+      "lat": 19.35,
+      "long": 99.88,
+      "region": "North",
+      "provinces": ["Phayao", "Chiang Rai"]
+  },
+  {
+      "nameTH": "อุทยานแห่งชาติภูซาง",
+      "nameEN": "Phu Sang National Park",
+      "lat": 19.53,
+      "long": 100.45,
+      "region": "North",
+      "provinces": ["Phayao", "Chiang Rai"]
+  }
 ]
