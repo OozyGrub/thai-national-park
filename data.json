@@ -270,5 +270,165 @@
     "long": 101.17,
     "region": "South",
     "provinces": ["Yala"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหาดนพรัตน์ธารา-หมู่เกาะพีพี",
+    "nameEN": "Hat Noppharat Thara–Mu Ko Phi Phi National Park",
+    "lat": 7.73,
+    "long": 98.76,
+    "region": "South",
+    "provinces": ["Krabi"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาพนมเบญจา",
+    "nameEN": "Khao Phanom Bencha National Park",
+    "lat": 8.24,
+    "long": 98.91,
+    "region": "South",
+    "provinces": ["Krabi"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะลันตา",
+    "nameEN": "Mu Ko Lanta National Park",
+    "lat": 7.48,
+    "long": 99.09,
+    "region": "South",
+    "provinces": ["Krabi"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติธารโบกขรณี",
+    "nameEN": "Than Bok Khorani National Park",
+    "lat": 8.38,
+    "long": 98.73,
+    "region": "South",
+    "provinces": ["Krabi"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติอ่าวพังงา",
+    "nameEN": "Ao Phang Nga National Park",
+    "lat": 8.35,
+    "long": 98.48,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาหลัก–ลำรู่",
+    "nameEN": "Khao Lak–Lam Ru National Park",
+    "lat": 8.69,
+    "long": 98.28,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาลำปี–หาดท้ายเหมือง",
+    "nameEN": "Khao Lampi–Hat Thai Mueang National Park",
+    "lat": 8.42,
+    "long": 98.24,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะสิมิลัน",
+    "nameEN": "Mu Ko Similan National Park",
+    "lat": 8.65,
+    "long": 97.64,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะสุรินทร์",
+    "nameEN": "Mu Ko Surin National Park",
+    "lat": 9.41,
+    "long": 97.86,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติศรีพังงา",
+    "nameEN": "Si Phang Nga National Park",
+    "lat": 9.14,
+    "long": 98.47,
+    "region": "South",
+    "provinces": ["Phang Nga"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติสิรินาถ",
+    "nameEN": "Sirinat National Park",
+    "lat": 8.08,
+    "long": 98.29,
+    "region": "South",
+    "provinces": ["Phuket"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติแหลมสน",
+    "nameEN": "Laem Son National Park",
+    "lat": 9.6,
+    "long": 98.46,
+    "region": "South",
+    "provinces": ["Ranong"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติลำน้ำกระบุรี",
+    "nameEN": "Lam Nam Kra Buri National Park",
+    "lat": 10.08,
+    "long": 98.66,
+    "region": "South",
+    "provinces": ["Ranong"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะระนอง",
+    "nameEN": "Mu Ko Ranong National Park",
+    "lat": 9.87,
+    "long": 98.58,
+    "region": "South",
+    "provinces": ["Ranong"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะเภตรา",
+    "nameEN": "Mu Ko Phetra National Park",
+    "lat": 6.85,
+    "long": 99.53,
+    "region": "South",
+    "provinces": ["Satun", "Trang"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติตะรุเตา",
+    "nameEN": "Tarutao National Park",
+    "lat": 6.59,
+    "long": 99.64,
+    "region": "South",
+    "provinces": ["Satun"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติทะเลบัน",
+    "nameEN": "Thale Ban National Park",
+    "lat": 6.47,
+    "long": 100.13,
+    "region": "South",
+    "provinces": ["Satun"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาสก",
+    "nameEN": "Khao Sok National Park",
+    "lat": 8.93,
+    "long": 98.53,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติคลองพนม",
+    "nameEN": "Khlong Phanom National Park",
+    "lat": 8.86,
+    "long": 98.7,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหาดเจ้าไหม",
+    "nameEN": "Hat Chao Mai National Park",
+    "lat": 7.39,
+    "long": 99.33,
+    "region": "South",
+    "provinces": ["Trang"]
   }
 ]
