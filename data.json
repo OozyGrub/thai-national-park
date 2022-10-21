@@ -158,5 +158,117 @@
       "long": 100.45,
       "region": "North",
       "provinces": ["Phayao", "Chiang Rai"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะชุมพร",
+    "nameEN": "Mu Ko Chumphon National Park",
+    "lat": 10.25,
+    "long": 99.21,
+    "region": "South",
+    "provinces": ["Chumphon"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาหลวง",
+    "nameEN": "Khao Luang National Park",
+    "lat": 8.36,
+    "long": 99.73,
+    "region": "South",
+    "provinces": ["Nakhon Si Thammarat"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขานัน",
+    "nameEN": "Khao Nan National Park",
+    "lat": 8.77,
+    "long": 99.8,
+    "region": "South",
+    "provinces": ["Nakhon Si Thammarat"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติน้ำตกสี่ขีด",
+    "nameEN": "Namtok Si Khit National Park",
+    "lat": 9.01,
+    "long": 99.77,
+    "region": "South",
+    "provinces": ["Nakhon Si Thammarat", "Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติน้ำตกโยง",
+    "nameEN": "Namtok Yong National Park",
+    "lat": 8.17,
+    "long": 99.74,
+    "region": "South",
+    "provinces": ["Nakhon Si Thammarat"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติบูโด-สุไหงปาดี",
+    "nameEN": "Budo–Su-ngai Padi National Park",
+    "lat": 6.46,
+    "long": 101.63,
+    "region": "South",
+    "provinces": ["Narathiwat", "Pattani", "Yala"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติน้ำตกทรายขาว",
+    "nameEN": "Namtok Sai Khao National Park",
+    "lat": 6.65,
+    "long": 101.09,
+    "region": "South",
+    "provinces": ["Pattani", "Yala", "Songkhla"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาปู่-เขาย่า",
+    "nameEN": "Khao Pu–Khao Ya National Park",
+    "lat": 7.77,
+    "long": 99.76,
+    "region": "South",
+    "provinces": ["Phattalung"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติน้ำตกหงาว",
+    "nameEN": "Namtok Ngao National Park",
+    "lat": 9.85,
+    "long": 98.62,
+    "region": "South",
+    "provinces": ["Ranong", "Chumphon"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติเขาน้ำค้าง",
+    "nameEN": "Khao Nam Khang National Park",
+    "lat": 6.55,
+    "long": 100.59,
+    "region": "South",
+    "provinces": ["Songkhla"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติแก่งกรุง",
+    "nameEN": "Kaeng Krung National Park",
+    "lat": 9.3,
+    "long": 98.86,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติใต้ร่มเย็น",
+    "nameEN": "Tai Romyen National Park",
+    "lat": 8.86,
+    "long": 99.45,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน",
+    "nameEN": "Than Sadet–Ko Pha-Ngan National Park",
+    "lat": 9.73,
+    "long": 100.02,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
+    "nameTH": "อุทยานแห่งชาติบางลาง",
+    "nameEN": "Bang Lang National Park",
+    "lat": 6.19,
+    "long": 101.17,
+    "region": "South",
+    "provinces": ["Yala"]
   }
 ]
