@@ -256,6 +256,14 @@
     "provinces": ["Surat Thani"]
   },
   {
+    "nameTH": "อุทยานแห่งชาติหมู่เกาะอ่างทอง",
+    "nameEN": "Mu Ko Ang Thong National Park",
+    "lat": 9.62,
+    "long": 99.67,
+    "region": "South",
+    "provinces": ["Surat Thani"]
+  },
+  {
     "nameTH": "อุทยานแห่งชาติธารเสด็จ-เกาะพะงัน",
     "nameEN": "Than Sadet–Ko Pha-Ngan National Park",
     "lat": 9.73,
